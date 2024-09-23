@@ -1,1 +1,2 @@
 *.csv filter=lfs diff=lfs merge=lfs -text
+Data/AmazonShoesData.csv filter=lfs diff=lfs merge=lfs -text
